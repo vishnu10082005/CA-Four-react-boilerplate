@@ -1,0 +1,47 @@
+[
+  {
+      "text": "1. What is the definition of 'Ambiguous'?",
+      "options": [
+          { "id": 0, "text": "Clear and straightforward", "isCorrect": false },
+          { "id": 1, "text": "Having multiple possible meanings or interpretations", "isCorrect": true },
+          { "id": 2, "text": "Completely understood", "isCorrect": false },
+          { "id": 3, "text": "Not related to language or words", "isCorrect": false }
+      ]
+  },
+  {
+      "text": "2. Which word means 'a temporary stay'?",
+      "options": [
+          { "id": 0, "text": "Permanent", "isCorrect": false },
+          { "id": 1, "text": "Residence", "isCorrect": false },
+          { "id": 2, "text": "Sojourn", "isCorrect": true },
+          { "id": 3, "text": "Staycation", "isCorrect": false }
+      ]
+  },
+  {
+      "text": "3. What does 'Ephemeral' mean?",
+      "options": [
+          { "id": 0, "text": "Lasting for a very long time", "isCorrect": false },
+          { "id": 1, "text": "Short-lived or fleeting", "isCorrect": true },
+          { "id": 2, "text": "Permanent", "isCorrect": false },
+          { "id": 3, "text": "Visible or noticeable", "isCorrect": false }
+      ]
+  },
+  {
+      "text": "4. What does 'Concur' mean?",
+      "options": [
+          { "id": 0, "text": "Disagree", "isCorrect": false },
+          { "id": 1, "text": "Agree", "isCorrect": true },
+          { "id": 2, "text": "Differ", "isCorrect": false },
+          { "id": 3, "text": "Discuss", "isCorrect": false }
+      ]
+  },
+  {
+      "text": "5. What is the synonym of 'Prolific'?",
+      "options": [
+          { "id": 0, "text": "Inactive", "isCorrect": false },
+          { "id": 1, "text": "Fruitful or productive", "isCorrect": true },
+          { "id": 2, "text": "Scarcity", "isCorrect": false },
+          { "id": 3, "text": "Lonely", "isCorrect": false }
+      ]
+  }
+]
